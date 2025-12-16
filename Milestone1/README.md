@@ -1,7 +1,7 @@
 # FitPulse Anomaly Detection – Milestone 1
 
 Live Application URL:
-https://huggingface.co/spaces/username/FitPulse-Anomaly-Detection
+https://huggingface.co/spaces/aistudy1buddy/Fit_pulse
 
 ## Project Overview
 FitPulse is a fitness data anomaly detection system.  
@@ -77,3 +77,4 @@ The following screenshots show the application output after loading a dataset:
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
+
