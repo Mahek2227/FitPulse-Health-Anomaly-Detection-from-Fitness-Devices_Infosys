@@ -61,6 +61,6 @@ The uploaded datasets are preprocessed to handle missing values, ensure numeric 
 - Prophet effectively modeled temporal trends and seasonal patterns
 - PCA helped reduce feature dimensionality for visualization
 - KMeans grouped users into distinct behavioral clusters
-- DBSCAN highlighted dense clusters and potential atypical behavior
+- DBSCAN highlighted dense clusters and potential a typical behavior
 - The results provide a strong foundation for anomaly detection in later milestones
 
