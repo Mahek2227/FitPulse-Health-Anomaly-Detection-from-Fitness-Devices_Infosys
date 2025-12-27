@@ -64,11 +64,3 @@ The uploaded datasets are preprocessed to handle missing values, ensure numeric 
 - DBSCAN highlighted dense clusters and potential atypical behavior
 - The results provide a strong foundation for anomaly detection in later milestones
 
----
-
-### Outputs
-Screenshots of the following outputs are included in the `results/` folder:
-- Dataset preview
-- TSFresh feature extraction matrix
-- Prophet trend plots
-- PCA-based clustering visualizations using KMeans and DBSCAN
