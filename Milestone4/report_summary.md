@@ -47,5 +47,6 @@ This helps users and healthcare professionals monitor health trends and identify
 This dashboard offers a **user-friendly and insightful solution** for monitoring fitness data and detecting unusual patterns. 
 It can be used for personal health tracking or by healthcare professionals to identify anomalies early and take preventive actions.
 
-**Note:** This project is running locally via ngrok. The link below works temporarily and may expire:
-[Health Anomaly Detection Dashboard](https://ominous-ela-overbumptuous.ngrok-free.dev)
+
+## Live Link Of Dashboard:
+https://fitpulse-zb79zfzuph8fwz2xuwxrab.streamlit.app/
